@@ -1,1 +1,5 @@
-
+{
+  "version": "0.2.1",
+  "download_url": "https://github.com/Orbelyan-19/display-ads-renamer-releases/releases/download/v0.2.1/DisplayAdsRenamer-v0.2.1.zip",
+  "release_notes": "Исправлено дублирование параметров (бренд, язык, размер, network) в именах файлов. Улучшен парсер для корректного определения всех частей имени. Добавлена автоматическая установка обновлений."
+}
